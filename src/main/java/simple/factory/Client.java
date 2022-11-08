@@ -3,7 +3,7 @@ package simple.factory;
 /**
  * @author Tian Changqing
  * @date 2022/11/7 16:58
- * @desc
+ * @desc 简单工厂
  */
 public class Client {
     public static void main(String[] args) {
