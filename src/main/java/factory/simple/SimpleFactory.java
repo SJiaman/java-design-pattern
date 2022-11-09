@@ -1,4 +1,4 @@
-package simple.factory;
+package factory.simple;
 
 /**
  * @author Tian Changqing
